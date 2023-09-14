@@ -2,7 +2,7 @@
 
 🌟 I’m currently learning some Java, HTML, CSS, C and Python.
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api?username=KaikyM&rank_icon=github&theme=tokyonight">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=KaikyM&rank_icon=github&theme=tokyonight" />
 </a>
